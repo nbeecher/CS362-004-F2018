@@ -1,0 +1,162 @@
+All the tests: 
+Unit Test 1
+No errors found in getCost function.
+Unit Test 1 testing completedFunction 'updateCoins'
+Lines executed:81.82% of 11
+
+Function 'gainCard'
+Lines executed:0.00% of 13
+
+Function 'discardCard'
+Lines executed:0.00% of 13
+
+Function 'cardEffect'
+Lines executed:0.00% of 212
+
+Function 'salvagerCard'
+Lines executed:0.00% of 7
+
+Function 'embargoCard'
+Lines executed:0.00% of 7
+
+Function 'villageCard'
+Lines executed:0.00% of 5
+
+Function 'smithyCard'
+Lines executed:0.00% of 5
+
+Function 'adventurerCard'
+Lines executed:0.00% of 15
+
+Function 'getCost'
+Lines executed:96.67% of 30
+
+Function 'drawCard'
+Lines executed:36.36% of 22
+
+Function 'getWinners'
+Lines executed:0.00% of 24
+
+Function 'scoreFor'
+Lines executed:0.00% of 24
+
+Function 'isGameOver'
+Lines executed:0.00% of 10
+
+Function 'endTurn'
+Lines executed:0.00% of 20
+
+Function 'whoseTurn'
+Lines executed:0.00% of 2
+
+Function 'fullDeckCount'
+Lines executed:0.00% of 9
+
+Function 'supplyCount'
+Lines executed:0.00% of 2
+
+Function 'handCard'
+Lines executed:0.00% of 3
+
+Function 'numHandCards'
+Lines executed:0.00% of 2
+
+Function 'buyCard'
+Lines executed:0.00% of 13
+
+Function 'playCard'
+Lines executed:0.00% of 14
+
+Function 'shuffle'
+Lines executed:93.75% of 16
+
+Function 'initializeGame'
+Lines executed:80.65% of 62
+
+Function 'kingdomCards'
+Lines executed:0.00% of 13
+
+Function 'newGame'
+Lines executed:0.00% of 3
+
+Function 'compare'
+Lines executed:83.33% of 6
+
+File 'dominion.c'
+Lines executed:20.60% of 563
+Creating 'dominion.c.gcov'
+
+
+Unit Test 2
+Failure 11
+Failure 11
+Failure 11
+Failure 11
+Failure 11
+Failure 11
+Failure 11
+Failure 11
+Failure 11
+Failure 11
+Unit Test 2 testing completedFile 'dominion.c'
+Lines executed:21.85% of 563
+Creating 'dominion.c.gcov'
+
+
+Unit Test 3
+init passed
+province passed
+3 piles passed
+Unit Test 3 testing completedFile 'dominion.c'
+Lines executed:23.62% of 563
+Creating 'dominion.c.gcov'
+
+
+Unit Test 4
+Passed no bonus
+Passed Bonus
+Passed no bonus
+Passed Bonus
+Passed no bonus
+Passed Bonus
+Passed no bonus
+Passed Bonus
+Unit Test 4 testing completedFile 'dominion.c'
+Lines executed:23.80% of 563
+Creating 'dominion.c.gcov'
+
+
+Card Test 1
+Failed handcount
+Failed deckcount decreasing by 3
+Card Test 1 testing completedFile 'dominion.c'
+Lines executed:28.42% of 563
+Creating 'dominion.c.gcov'
+
+
+Card Test 2
+Pass deckcount
+Fail hand count check
+Pass treasure card check
+Pass treasure card check
+Card Test 2 testing completedFile 'dominion.c'
+Lines executed:30.37% of 563
+Creating 'dominion.c.gcov'
+
+Card Test 3
+Pased handcount
+Pass number of actions
+Pass deck count
+Card Test 3 testing completedFile 'dominion.c'
+Lines executed:31.62% of 563
+Creating 'dominion.c.gcov'
+
+
+Card Test 4
+Pass hand count check
+Pass coin count check
+Failed deck count
+Card Test 4 testing completedFile 'dominion.c'
+Lines executed:33.04% of 563
+Creating 'dominion.c.gcov'
+
